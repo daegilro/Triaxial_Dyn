@@ -1,0 +1,10 @@
+	Pendiente	Corte eje Y
+Lvdt Test	-0,0506	25,303
+CC_dosocho	2530,9	-12656
+Press_poros	-204,91	1,4985
+CC_old		4777,4	-1542,6
+
+
+
+
+
